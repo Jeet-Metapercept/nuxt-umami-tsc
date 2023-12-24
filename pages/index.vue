@@ -20,17 +20,8 @@ VIEWS.updateLastSeen()
         </h1>
 
         <p class="mx-auto my-4 max-w-xl sm:text-md/relaxed text-gray-600">
-          Beautifully designed <a class="underline underline-offset-4 hover:text-primary" href="https://www.shadcn-vue.com">shadcn</a> components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+          Integrate Umami Analytics into your Nuxt websites / applications.
         </p>
-
-        <div class="flex flex-wrap justify-center gap-4">
-          <NuxtLink
-            to="/app"
-            class="block w-full rounded px-12 py-3 text-sm font-medium text-gray-600 shadow hover:blue-gray-700 focus:outline-none focus:ring hover:border-emerald-900 active:text-red-500 sm:w-auto"
-          >
-            Get Started
-          </NuxtLink>
-        </div>
       </div>
     </div>
   </section>
