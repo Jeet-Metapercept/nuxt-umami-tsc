@@ -1,0 +1,80 @@
+[
+    {
+        "question": {
+            "text": "What is the capital of France?",
+            "description": "This question relates to European capitals.",
+            "image_url": "http://example.com/image.jpg",
+            "reference": "AIIMS 2021"
+        },
+        "answers": [
+            {
+                "text": "Paris",
+                "image_url": null,
+                "is_correct": true
+            },
+            {
+                "text": "Berlin",
+                "image_url": null,
+                "is_correct": false
+            },
+            {
+                "text": "Madrid",
+                "image_url": null,
+                "is_correct": false
+            },
+            {
+                "text": "Rome",
+                "image_url": null,
+                "is_correct": false
+            }
+        ],
+        "author": "author@example.com",
+        "category": "Geography",
+        "difficulty": 2,
+        "tags": [
+            "Europe",
+            "Capitals"
+        ],
+        "views": 0,
+        "published": false
+    },
+    {
+        "question": {
+            "text": "What is the largest planet in our solar system?",
+            "description": "This question is about celestial bodies.",
+            "image_url": null,
+            "reference": "NASA"
+        },
+        "answers": [
+            {
+                "text": "Jupiter",
+                "image_url": null,
+                "is_correct": true
+            },
+            {
+                "text": "Mars",
+                "image_url": null,
+                "is_correct": false
+            },
+            {
+                "text": "Earth",
+                "image_url": null,
+                "is_correct": false
+            },
+            {
+                "text": "Saturn",
+                "image_url": null,
+                "is_correct": false
+            }
+        ],
+        "author": "astronomer@example.com",
+        "category": "Astronomy",
+        "difficulty": 3,
+        "tags": [
+            "Space",
+            "Planets"
+        ],
+        "views": 0,
+        "published": true
+    }
+]
