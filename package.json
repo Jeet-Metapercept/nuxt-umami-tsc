@@ -20,5 +20,8 @@
     "@nuxt/devtools": "latest",
     "@nuxt/ui": "^2.9.0",
     "nuxt": "^3.7.4"
+  },
+  "dependencies": {
+    "nuxt-umami": "^2.5.6"
   }
 }
